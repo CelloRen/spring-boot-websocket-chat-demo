@@ -35,3 +35,5 @@ mvn spring-boot:run
 You can find the tutorial for this application on my blog -
 
 https://www.callicoder.com/spring-boot-websocket-chat-example/
+
+Note!!!I just fork the program for reference when I design my chatroom.
